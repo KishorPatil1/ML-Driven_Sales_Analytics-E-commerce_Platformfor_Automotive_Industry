@@ -1,8 +1,6 @@
 # ML-Driven Sales Analytics Platform
 
-<p align="center">
-  <img src="System Architecture-2.png" alt="System Architecture" width="600"/>
-</p>
+
 
 A sophisticated full-stack e-commerce platform integrated with advanced machine learning capabilities for sales forecasting, demand analysis, and customer sentiment analysis. This project combines traditional retail operations with cutting-edge AI to provide actionable business insights.
 
