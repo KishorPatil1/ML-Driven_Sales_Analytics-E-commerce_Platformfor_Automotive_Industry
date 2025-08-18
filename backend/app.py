@@ -91,7 +91,7 @@ class ProductImprovementSystem:
             return f"An error occurred: {e}"
 
 # Initialize the Product Improvement System
-api_key = "AIzaSyD7mPGem7KTtks2bOZ0cIeoxYNWhchDnPk"  
+api_key = "API-KEY"  
 improvement_system = ProductImprovementSystem(api_key)
 
 def get_db_connection():
